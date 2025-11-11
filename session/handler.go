@@ -5,7 +5,6 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"slices"
 	"time"
 
 	spectrumpacket "github.com/cooldogedev/spectrum/server/packet"
